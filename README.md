@@ -20,4 +20,5 @@ I've created this circuit during the summer vacations of 2002 using Digital Work
 
 I've located my source files in an old CD backup and decided to share, in case anyone get interested. Enjoy!
 
+Note: Descriptions of the circuits are all in portuguese.
 For any questions or clarifications, feel free to send me a hello!
