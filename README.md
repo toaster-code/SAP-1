@@ -18,6 +18,5 @@ I've created this circuit during 2002 summer vacations. I used Digital Works to 
 Despite that, I decided to continue working to finish the simulations, just for fun ;)
 
 Recently I found the source file in an old CD backup and I decided to share it, in case anyone get interested. So enjoy!
-Note: Descriptions of the circuits are all in portuguese.
 
-For any questions or clarifications, feel free to send me a hello!
+Note: The descriptions are in portuguese. For any questions or clarifications, feel free to send me a hello!
