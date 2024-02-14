@@ -2,7 +2,7 @@
 
 Malvino's Simple-As-Possible (SAP) computer architecture implemented using Digital Works.
 
-![Alt Text](/logo.png)
+![Screenshot Digital Works](/logo.png)
 
 ## Usage
 
