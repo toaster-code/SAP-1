@@ -14,9 +14,10 @@ Download the zip file and run the executable (I've tested using windows 10 and i
 
 ## About my SAP-1 Project:
 
-I've created this circuit during the summer vacations of 2002 using Digital Works for a TCC project in digital circuits. Unfortunately, the project did not go as expected. Despite that, I decided to continue working on it to finish the simulations, just for fun ;)
+I've created this circuit during 2002 summer vacations. I used Digital Works to replicate the SAP-1 architecture. I was hopping for using it in a TCC project in digital circuits. Unfortunately, the project did not went as I expected.
+Despite that, I decided to continue working to finish the simulations, just for fun ;)
 
-I've located my source files in an old CD backup and decided to share, in case anyone get interested. Enjoy!
-
+Recently I found the source file in an old CD backup and I decided to share it, in case anyone get interested. So enjoy!
 Note: Descriptions of the circuits are all in portuguese.
+
 For any questions or clarifications, feel free to send me a hello!
